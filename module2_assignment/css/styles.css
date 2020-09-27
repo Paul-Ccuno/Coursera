@@ -16,9 +16,17 @@ h1 {
     width: 100%;
 }
 
+div > section {
+    border: 1px solid black;
+    background: gray;
+    margin: 8px;
+}
+
 div > section > p {
     margin: 10px;
     clear: right;
+    height: 150px;
+    overflow: auto;
 }
 
 div > section > span {
@@ -31,12 +39,6 @@ div > section > span {
     text-align: center;
     font-weight: bold;
     font-size: 18px;
-}
-
-div > section {
-    border: 1px solid black;
-    background: gray;
-    margin: 8px;
 }
 
 .section1 span {
