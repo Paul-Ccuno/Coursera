@@ -47,7 +47,7 @@ header #collapsable-nav li:hover{
 /* END MAIN-CONTENT */
 
 /* MEDIUM DEVICES TO MORE */
-@media (min-width: 576px) {
+@media (min-width: 768px) {
 
     /* HEADER */
     header #collapsable-nav {
