@@ -3,7 +3,7 @@
 
 // DO NOT attach the speakWord variable to the 'byeSpeaker' object.
 (function (window) {
-  var byeSpeaker = {}
+  var byeSpeaker = {};
 
   var speakWord = "Good Bye";
 
